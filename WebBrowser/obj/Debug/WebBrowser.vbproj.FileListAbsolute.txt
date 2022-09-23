@@ -1,0 +1,12 @@
+G:\VB\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe.config
+G:\VB\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe
+G:\VB\WebBrowser\WebBrowser\bin\Debug\WebBrowser.pdb
+G:\VB\WebBrowser\WebBrowser\bin\Debug\WebBrowser.xml
+G:\VB\WebBrowser\WebBrowser\obj\Debug\WebBrowser.vbprojAssemblyReference.cache
+G:\VB\WebBrowser\WebBrowser\obj\Debug\WebBrowser.Form1.resources
+G:\VB\WebBrowser\WebBrowser\obj\Debug\WebBrowser.Resources.resources
+G:\VB\WebBrowser\WebBrowser\obj\Debug\WebBrowser.vbproj.GenerateResource.cache
+G:\VB\WebBrowser\WebBrowser\obj\Debug\WebBrowser.vbproj.CoreCompileInputs.cache
+G:\VB\WebBrowser\WebBrowser\obj\Debug\WebBrowser.exe
+G:\VB\WebBrowser\WebBrowser\obj\Debug\WebBrowser.xml
+G:\VB\WebBrowser\WebBrowser\obj\Debug\WebBrowser.pdb
