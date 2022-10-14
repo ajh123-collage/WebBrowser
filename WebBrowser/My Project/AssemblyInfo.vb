@@ -8,14 +8,14 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("WebBrowser")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("WebBrowser")>
-<Assembly: AssemblyCopyright("Copyright ©  2022")>
+<Assembly: AssemblyTitle("Web Browser")>
+<Assembly: AssemblyDescription("A simple web browser made with Visual Basic for collage!")>
+<Assembly: AssemblyCompany("Miners Online")>
+<Assembly: AssemblyProduct("Web Browser")>
+<Assembly: AssemblyCopyright("Copyright Miners Online ©  2022")>
 <Assembly: AssemblyTrademark("")>
 
-<Assembly: ComVisible(False)>
+<Assembly: ComVisible(True)>
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
 <Assembly: Guid("1547568c-100a-4d9c-a411-a1f02b3e07de")>
